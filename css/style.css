@@ -49,6 +49,7 @@ main {
 section {
     max-width: 680px;
     width: 100%;
+    margin: 0 auto;
     background: linear-gradient(145deg, #222428, #191a1d);
     border: 1px solid #d4af37;
     border-radius: 12px;
